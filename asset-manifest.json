@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/island-mui/static/js/main.1ef5562c.js",
+    "static/media/bg.jpg": "/island-mui/static/media/bg.fd7932752db7fb34a18d.jpg",
+    "static/media/c1.jpg": "/island-mui/static/media/c1.5e3689603a1c07c134c7.jpg",
+    "static/media/c2.jpg": "/island-mui/static/media/c2.46785ddb161520c165fb.jpg",
+    "index.html": "/island-mui/index.html",
+    "main.1ef5562c.js.map": "/island-mui/static/js/main.1ef5562c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1ef5562c.js"
+  ]
+}
